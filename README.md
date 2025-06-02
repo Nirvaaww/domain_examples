@@ -45,7 +45,7 @@ These scripts allow you to:
    ```powershell
    git clone https://github.com/Nirvaaww/domain_examples.git
    cd domain_examples
-````
+
 
 3. **Run the scripts step by step**, for example:
 
@@ -79,7 +79,3 @@ This project is licensed under the [MIT License](LICENSE), unless otherwise stat
 
 ```
 
----
-
-Would you like me to generate this as a downloadable file or help tailor it to the exact script names and variables you’re using?
-```
