@@ -77,5 +77,3 @@ These scripts allow you to:
 
 This project is licensed under the [MIT License](LICENSE), unless otherwise stated.
 
-```
-
